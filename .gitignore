@@ -1,4 +1,5 @@
 Makevars*
+*.o
 
 .Rproj.user
 .Rhistory
